@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestai3dmodeler.com/sitemap.xml
